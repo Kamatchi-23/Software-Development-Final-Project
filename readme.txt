@@ -1,4 +1,3 @@
-Assessment 2 – Part 2: Software Development
 32555 Fundamentals of Software Development
 
 Session: Autumn 2024
@@ -14,7 +13,7 @@ Contribution:
 -- For CLI, 
 	1. Subjects.py file 
 		a. Assign new subjects
-		b. calculate average mark
+		b. calculate the average mark
 		c. calculate grades  
 	2. Students.py file - 
 		a. Enrol Subjects
